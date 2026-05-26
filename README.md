@@ -12,7 +12,7 @@
 
 <br/>
 
-## [🚀 Comming Soon ](https://juttcybertech.com/asf-pro))
+## [🚀 asf.juttcybertech.com  ](https://juttcybertech.com/asf-pro))
 
 <br/>
 
