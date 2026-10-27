@@ -32,6 +32,11 @@ ASF is developed strictly for **Authorized Cybersecurity Research**.
 Usage on unauthorized devices is **STRICTLY PROHIBITED**.
 All users must have explicit written permission before testing.
 
+## 🔒 Privacy Commitment
+**Jutt Cyber Tech Never Compromises on User & Client Privacy.**  
+We strictly adhere to zero knowledge architecture and absolute confidentiality protocols. Your encrypted data, keys, and personal information remain entirely under your control we never log, track, share, or compromise client privacy under any circumstances.
+
+
 ## 📞 Official Information
 🌐 [juttcybertech.com](https://juttcybertech.com) | 📧 [Contact@juttcybertech.com](mailto:contact@juttcybertech.com) | 💬 [WhatsApp: +923194817239](https://wa.me/923194817239)
 
