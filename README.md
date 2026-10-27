@@ -11,7 +11,7 @@
 <br/>
 
 <p align="center">
-  <img src="asf.png" width="60%" alt="Black Vault Preview" />
+  <img src="asf.png" width="60%" alt="ASF Preview" />
 </p>
 
 <br/>
